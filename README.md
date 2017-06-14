@@ -20,7 +20,7 @@
  - Abstraction - xaricdeki bir code u daxile yaza bilmerik anlamina ve islemini yetirir.
  - Polymorphism - code lari yazarken onlarin hansi dereceye sahip olmasini yeni puplic,Private,Protected olmasini teyin edir.
  - Inheritance - adindan belli oldugu kimi class daki code ve fayllarin bir yerden basqa yere dasinmasina deyilir.
- - Polymorphism - ise yazdigimiz code larda etdiyimiz her bir deyisikikde ferqli resulst lar cixardir.
+ - Encapsulation - ise yazdigimiz code larda etdiyimiz her bir deyisikikde ferqli resulst lar cixardir.
  
 ## = Class və Object arasındakı bənzərliklər və fərqliliklər nədir?
 
